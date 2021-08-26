@@ -18,6 +18,7 @@ public class GUI implements ActionListener{
 	JTextArea textArea;
 	ImageIcon image1;
 	JComboBox comboBox;
+	//Check
 	public GUI() {
 		
 		//Create Button

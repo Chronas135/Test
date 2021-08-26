@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
+//Check
 public class File_Reader {
 	public static void File_Reader(String file_Name) throws FileNotFoundException {
 		File file = new File(file_Name);
