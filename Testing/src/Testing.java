@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Testing {
-	//check
+	//checkd
 	public static void main (String args[]) throws FileNotFoundException {
 
 		//GUI gui = new GUI();
