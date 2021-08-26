@@ -86,7 +86,6 @@ public class GUI implements ActionListener{
 			if (comboBox.getSelectedItem() == "Top") {
 				try {
 					JFrame frame2 = new JFrame();
-					System.out.println(frame2.getSize());
 					JTextField textRoll = new JTextField();
 					this.frameSize(frame2, textRoll,role.getTopRole());
 					frame2.pack();
