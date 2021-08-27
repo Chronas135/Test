@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Testing {
@@ -7,7 +8,8 @@ public class Testing {
 	public static void main (String args[]) throws FileNotFoundException {
 
 		//GUI gui = new GUI();
-		GUI g = new GUI();
+		Roles g = new Roles();
+		g.rolesToChamps();
 		/*String a = sc.nextLine();
 		System.out.println(a);
 		sc.useDelimiter(",");
